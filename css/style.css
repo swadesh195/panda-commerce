@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    margin-bottom: 50px;
+}
+.orange-bg {
+    border-radius: 20px;
+    background-color: #fceae8;
+}
+.carousel-item {
+    padding: 20px 40px;
+}
+.price {
+    color: #ff136f;
+}
+.buy-now-button {
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    background-image: linear-gradient(to bottom, #ff5898 0%, #ff1368 100%);
+
+}
+
+.carousel-indicators li {
+    width: 35px;
+    height: 6px;
+    border-radius: 11px;
+    background-color: #ff136f;
+    border: transparent;
+}
+.cat1 {
+    background-color: orange;
+}
+.cat2 {
+    background-color: orchid;
+}
+.cat3 {
+    background-color: blue;
+}
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1 {
+    color: #fff;
+}
+.categories img {
+    width: 100px;
+}
+.see-more {
+    font-size: 20px;
+    color: orange;
+}
+ .see-more:hover {
+    color:bisque;
+    text-decoration: none;
+
+}
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+    border-top: none;
+}
+#subscribe {
+    height: 300px;
+}
+.footer-area {
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.726);
+    padding: 40px 20px;
+    border-radius: 10px;
+}
